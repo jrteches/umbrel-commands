@@ -139,7 +139,7 @@ tail -f ~/umbrel/bitcoin/debug.log
 ## Ver el log de Lightning en tiempo real
 
 ```bash
-tail -f umbrel/lnd/logs/bitcoin/mainnet/lnd.log
+tail -f ~/umbrel/lnd/logs/bitcoin/mainnet/lnd.log
 ```
 
 ## Comandos para bitcoind
